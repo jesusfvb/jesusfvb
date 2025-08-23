@@ -1,8 +1,6 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
 ###
 
-<p align="left">I am Jesús. I'm this i my porfil</p>
+<p align="left">Computer engineer with a solid background in software development, focused on developing applications with Flutter, Spring Boot and PostgreSQL. Throughout my academic training and personal projects, I have acquired knowledge in other technologies such as React, React Native and Mongodb; which have helped me have a greater understanding of mobile and web development. I also have knowledge of version control with git and GitHub and continuous integration with GitHub Actions.l</p>
 
 ###
 

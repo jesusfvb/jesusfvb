@@ -4,28 +4,56 @@
 
 ###
 
-<h3 align="left">👋 Hi, I'm Jesus</h3>
+<h1 align="left">👋 Hi, I'm Jesus</h1>
 
 ###
 
-<p align="left">Software Developer | Java & React Enthusiast<br><br>Passionate about software engineering and digital experience design. Focused on building modern applications, balancing the power of **Spring Boot** with the agility of **React** to deliver innovative and scalable digital products.</p>
+<p align="left">Backend-focused junior developer working with Java and Spring Boot.<br><br>This profile contains my personal projects, backend APIs, and experiments while preparing for my first backend developer role.</p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="39" alt="javascript logo"  />
-  <img width="56" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="39" alt="typescript logo"  />
-  <img width="56" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="39" alt="react logo"  />
-  <img width="56" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="39" alt="jest logo"  />
-  <img width="56" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="39" alt="java logo"  />
-  <img width="56" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="39" alt="spring logo"  />
-  <img width="56" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="39" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="26" alt="java logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="26" alt="spring logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="26" alt="git logo"  />
 </div>
 
 ###

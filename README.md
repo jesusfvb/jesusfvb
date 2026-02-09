@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Backend-focused junior developer working with Java and Spring Boot.<br><br>This profile contains my personal projects, backend APIs, and experiments while preparing for my first backend developer role.</p>
+<p align="left">Backend-focused developer working with Java and Spring Boot.<br><br>This profile contains my personal projects, backend APIs, and experiments while preparing for my first backend developer role.</p>
 
 ###
 
